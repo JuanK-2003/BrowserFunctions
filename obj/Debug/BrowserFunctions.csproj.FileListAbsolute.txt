@@ -1,0 +1,10 @@
+C:\Users\918801\source\repos\BrowserFunctions\bin\Debug\BrowserFunctions.exe.config
+C:\Users\918801\source\repos\BrowserFunctions\bin\Debug\BrowserFunctions.exe
+C:\Users\918801\source\repos\BrowserFunctions\bin\Debug\BrowserFunctions.pdb
+C:\Users\918801\source\repos\BrowserFunctions\obj\Debug\BrowserFunctions.csprojAssemblyReference.cache
+C:\Users\918801\source\repos\BrowserFunctions\obj\Debug\BrowserFunctions.Form1.resources
+C:\Users\918801\source\repos\BrowserFunctions\obj\Debug\BrowserFunctions.Properties.Resources.resources
+C:\Users\918801\source\repos\BrowserFunctions\obj\Debug\BrowserFunctions.csproj.GenerateResource.cache
+C:\Users\918801\source\repos\BrowserFunctions\obj\Debug\BrowserFunctions.csproj.CoreCompileInputs.cache
+C:\Users\918801\source\repos\BrowserFunctions\obj\Debug\BrowserFunctions.exe
+C:\Users\918801\source\repos\BrowserFunctions\obj\Debug\BrowserFunctions.pdb
